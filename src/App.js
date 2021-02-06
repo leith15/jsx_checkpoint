@@ -12,7 +12,7 @@ function App() {
         className="container"
       >
         <h1 className="title red">React JSX</h1>
-        <hr class="brace" />
+        
 
         <div className="photos">
           <img src={imageInSrc} />
